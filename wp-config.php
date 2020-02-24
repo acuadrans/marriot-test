@@ -32,13 +32,13 @@ $_SERVER["HTTPS"] = "on";
  */
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'marriott');
+define('DB_NAME', 'mysqldatabase11653');
 /** MySQL database username */
-define('DB_USER', 'cmnweb');
+define('DB_USER', 'adminTest@wp-testing-azure-mysqldbserver');
 /** MySQL database password */
-define('DB_PASSWORD', 'protocol15');
+define('DB_PASSWORD', 'roma**25');
 /** MySQL hostname */
-define('DB_HOST', '52.183.127.177');
+define('DB_HOST', 'wp-testing-azure-mysqldbserver.mysql.database.azure.com');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
