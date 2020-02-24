@@ -1,0 +1,33 @@
+/*
+
+Theme Name: Pro &ndash; Child Theme
+Theme URI: http://theme.co/pro/
+Author: Themeco
+Author URI: http://theme.co/
+Description: Make all of your modifications to Pro in this child theme.
+Version: 1.0.0
+Template: pro
+
+*/
+.hidden {
+  display: none;
+}
+.x-icon-spinner {
+  animation: spinner 3s linear infinite;
+}
+#dev-banner {
+  background-color: red;
+  color: white;
+  padding: 0.25em 2em;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+@keyframes spinner {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
