@@ -34,9 +34,9 @@ $_SERVER["HTTPS"] = "on";
 /** The name of the database for WordPress */
 define('DB_NAME', 'marriot');
 /** MySQL database username */
-define('DB_USER', 'adminTest@wp-testing-azure-mysqldbserver');
+define('DB_USER', 'cmnweb');
 /** MySQL database password */
-define('DB_PASSWORD', 'roma**25');
+define('DB_PASSWORD', 'protocol15');
 /** MySQL hostname */
 define('DB_HOST', 'wp-testing-azure-mysqldbserver.mysql.database.azure.com');
 /** Database Charset to use in creating database tables. */
