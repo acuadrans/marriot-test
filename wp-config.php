@@ -63,8 +63,8 @@ define('AUTH_SALT',        '228896771c3840f2d9f9e24b88ab41d0a2b6cea2');
 define('SECURE_AUTH_SALT', '66c04422ea985445339afd593fbb3eb41af6f492');
 define('LOGGED_IN_SALT',   'dc2ffdb806592886140cac798ea31e2196e173b0');
 define('NONCE_SALT',       'b10bc35e1f66da39668910ed8a44128115de8dad');
-/*define('WP_HOME','https://marriott.childrensmiraclenetworkhospitals.org');
-define('WP_SITEURL','https://marriott.childrensmiraclenetworkhospitals.org');*/
+define('WP_HOME','https://wp-testing-azure-staging-wp-testing.azurewebsites.net');
+define('WP_SITEURL','https://wp-testing-azure-staging-wp-testing.azurewebsites.net');
 define( 'WP_MEMORY_LIMIT', '256M' );
 define( 'WP_MAX_MEMORY_LIMIT', '512M' );
 /**#@-*/
